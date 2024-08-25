@@ -23,3 +23,11 @@ You can open multiple terminal windows and run the client script to simulate mul
 From Client to Server: Type a message in the client terminal and press Enter. The message will be sent to the server, which will display it.
 From Server to Client: The server can also send messages to the client by typing in the server's terminal.
 Closing the Connection: To close the connection, type close in the client terminal. The connection will be terminated, and the client will disconnect from the server.
+
+
+# Future of this
+will try and add more sophisticated features later on such as a
+gui
+useranme auth
+file uploading
+
