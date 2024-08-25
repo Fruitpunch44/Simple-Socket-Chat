@@ -1,8 +1,9 @@
-SimpleSocketChat is a basic Python project that demonstrates client-server communication using sockets and threading. 
+# What is it
+SimpleSocketChat is a basic Python project that demonstrates client-server communication using sockets and threading.*
 The server listens for incoming connections, and clients can connect to the server to send and receive messages.This was done to get more comfortable
 with network programming with python.more Features will be added overtime as i progress with python
 
-How to Run
+# How to Run
 1. Clone the Repository
 git clone https://github.com/Fruitpunch44/Simple-Socket-Chat.git
 cd SimpleSocketChat
